@@ -1,0 +1,7 @@
+{
+  "start": [
+    "npm i",
+    "npm start"
+  ],
+  "service": "pm2 start npm --name setlien-backend -- run start"
+}
